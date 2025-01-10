@@ -22,7 +22,7 @@ I am a highly experienced servant leader with a proven track record in driving s
 - **Six Sigma Black Belt**
 - **IBM AI Developer Profesional**
 - **IBM DevOps Professional**
-- Numerous agile qualifications and project management courses
+- Agile Coach
 
 ### 🛠 Tech Stack
 - **Languages:** Python, with frameworks and libraries including Flask, NumPy, pytest, and behave.
