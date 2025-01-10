@@ -25,8 +25,8 @@ I am a highly experienced servant leader with a proven track record in driving s
 - Agile Coach
 
 ### 🛠 Tech Stack
-- **Languages:** Python, with frameworks and libraries including Flask, NumPy, pytest, and behave.
-- **Tools:** Docker, Agile project management tools, CI/CD pipelines.
+- **Languages:** Python, R, Julia
+- **Tools:** Docker, Agile project management tools, CI/CD pipelines, Webscraping, AI
 
 ### 🚴‍♂️ Personal Interests
 I am passionate about cycling, rowing, and yoga, which help me maintain a balanced lifestyle and enhance my focus and productivity.
