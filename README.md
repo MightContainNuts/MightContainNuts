@@ -30,3 +30,12 @@ I am a highly experienced servant leader with a proven track record in driving s
 
 ### 🚴‍♂️ Personal Interests
 I am passionate about cycling, rowing, and yoga, which help me maintain a balanced lifestyle and enhance my focus and productivity.
+
+### 📝 latests posts
+
+You can check out all my posts on my hashnode 
+[blog](https://surestride.hashnode.dev/?source=top_nav_blog_home)
+
+- [best practices for python type annotations](https://surestride.hashnode.dev/best-practices-for-python-type-annotations)
+- [cicd pipeline for python with bdd and tdd using behave pytest and gitlab ci](https://surestride.hashnode.dev/cicd-pipeline-for-python-with-bdd-and-tdd-using-behave-pytest-and-gitlab-ci)
+- [why dora metrics outshine traditional velocity for your projects](https://surestride.hashnode.dev/why-dora-metrics-outshine-traditional-velocity-for-your-projects)
