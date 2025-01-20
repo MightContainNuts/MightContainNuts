@@ -1,32 +1,46 @@
-name: Update README with Latest Hashnode Articles
+name: Update README with Hashnode Articles
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch: # Allows manual trigger
+    # Run daily at midnight (adjust as needed)
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allow manual triggering
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
+      # Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Fetch Latest Articles
-        run: |
-          curl -X POST https://api.hashnode.com/ \
-          -H "Content-Type: application/json" \
-          -d '{"query": "{ user(username: \"your-hashnode-username\") { publication { posts(page: 0) { title slug dateAdded } } } }"}' \
-          | jq '.data.user.publication.posts | .[:5]' > articles.json
+      # Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x" # Replace with the Python version you're using
 
-      - name: Update README
+      # Install Poetry
+      - name: Install Poetry
         run: |
-          python update_readme.py
+          curl -sSL https://install.python-poetry.org | python3 -
+          export PATH="$HOME/.local/bin:$PATH"
 
-      - name: Commit Changes
+      # Install dependencies using Poetry
+      - name: Install Dependencies
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          poetry install
+
+      # Run the Python script
+      - name: Run Update Script
+        run: python automate_profile_hashnode_article_population.py
+
+      # Commit and push changes
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "Update latest articles"
+          git commit -m "Update README with latest Hashnode articles"
           git push
