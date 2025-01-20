@@ -19,23 +19,30 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.x" # Replace with the Python version you're using
+          python-version: "3.12"  # Specify the version you're using
 
-           # Install dependencies (if any)
+      # Install dependencies (if any)
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt # If you have a requirements file
+          pip install requests  # Install requests if you don't have a requirements.txt
 
       # Run the Python script
       - name: Run Update Script
-        run: python automate_profile_hashnode_article_population.py
-
-      # Commit and push changes
-      - name: Commit and Push Changes
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add README.md
-          git commit -m "Update README with latest Hashnode articles"
-          git push
+          python automate_profile_hashnode_article_population.py
+
+      # Check if README.md is modified and commit changes
+      - name: Check if README.md is modified
+        run: |
+          git diff README.md
+          if git diff --quiet README.md; then
+            echo "No changes to commit"
+            exit 0
+          else
+            git config --global user.name "GitHub Actions"
+            git config --global user.email "actions@github.com"
+            git add README.md
+            git commit -m "Update README with latest Hashnode articles"
+            git push
+          fi
