@@ -57,3 +57,7 @@ if start_idx != -1 and end_idx != -1:
 else:
     # If markers are not found, append the new section at the end
     updated_content = content + f"\n{start_marker}\n{md_content.strip()}\n{end_marker}\n"
+
+with open("README.md", "w") as readme:
+    readme.write(updated_content)
+    print("README.md has been updated.")
