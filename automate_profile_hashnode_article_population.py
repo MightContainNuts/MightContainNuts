@@ -42,12 +42,14 @@ end_marker = "<!-- END HASHNODE ARTICLES -->"
 
 with open("README.md", "r") as readme:
     content = readme.read()
-
+print(content)
 
 start_idx = content.find(start_marker)
 end_idx = content.find(end_marker)
 
+
 if start_idx != -1 and end_idx != -1:
+    print("start/end indexes found")
     # Update the content between the markers
     updated_content = (
         content[:start_idx + len(start_marker)]  # Content before the start marker
@@ -57,7 +59,9 @@ if start_idx != -1 and end_idx != -1:
 else:
     # If markers are not found, append the new section at the end
     updated_content = content + f"\n{start_marker}\n{md_content.strip()}\n{end_marker}\n"
+print(updated_content)
 
 with open("README.md", "w") as readme:
     readme.write(updated_content)
     print("README.md has been updated.")
+    print(md_content)
