@@ -37,7 +37,7 @@ You can check out all my posts on my hashnode
 [blog](https://surestride.hashnode.dev/?source=top_nav_blog_home)
 
 <!-- BEGIN HASHNODE ARTICLES -->
-1. [Why Python Decorators Are Essential for Clean and Readable Code](https://surestride.hashnode.dev/why-python-decorators-are-essential-for-clean-and-readable-code)
-2. [Why you should user Gherkin in your user stories...](https://surestride.hashnode.dev/why-you-should-user-gherkin-in-your-user-stories)
-3. [Best Practices for Python Type Annotations](https://surestride.hashnode.dev/best-practices-for-python-type-annotations)
+1. [Automating README Updates with Hashnode Articles Using GitHub Actions](https://surestride.hashnode.dev/automating-readme-updates-with-hashnode-articles-using-github-actions)
+2. [Why Python Decorators Are Essential for Clean and Readable Code](https://surestride.hashnode.dev/why-python-decorators-are-essential-for-clean-and-readable-code)
+3. [Why you should user Gherkin in your user stories...](https://surestride.hashnode.dev/why-you-should-user-gherkin-in-your-user-stories)
 <!-- END HASHNODE ARTICLES -->
