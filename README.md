@@ -1,4 +1,6 @@
 # mightcontainnuts.gitlab.io
+![Logo](surestridelogo.png)
+
 
 # Dean Didion
 
