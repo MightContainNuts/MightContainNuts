@@ -32,7 +32,7 @@ I am a highly experienced servant leader with a proven track record in driving s
 
 ### 🛠 Tech Stack
 - **Languages:** Python, R, Julia, JavaScript
-- **Tools:** Docker, Agile project management tools, CI/CD pipelines, Webscraping, AI, Numpy, Pandas, Scikit-learn, 
+- **Tools:** Docker, BDD, TDD, CI/CD pipelines, Webscraping, AI, Numpy, Pandas, Scikit-learn, 
 
 ### 🚴‍♂️ Personal Interests
 I am passionate about cycling, rowing, and yoga, which help me maintain a balanced lifestyle and enhance my focus and productivity.
