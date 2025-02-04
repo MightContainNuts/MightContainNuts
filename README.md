@@ -22,7 +22,7 @@ I am a highly experienced servant leader with a proven track record in driving s
 - **B.Sc.(Mech)**
 - **ISO 9001 Auditor**
 - **Six Sigma Black Belt**
-- **Agile Coach
+- **Agile Coach **
 - **IBM AI Developer Profesional **
 - **IBM DevOps Professional **
   
