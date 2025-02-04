@@ -26,12 +26,8 @@ I am a highly experienced servant leader with a proven track record in driving s
 - **IBM AI Developer Profesional **
 - **IBM DevOps Professional **
   
-<a href="https://coursera.org/share/20b0655ae5f74388ca2134578d180366" target="_blank">
-    <img src="cert.png" alt="IBM AI Developer Professional" />
-</a>
-<a href="https://coursera.org/share/1b4e7da361d1dae605841797cb7aee9c" target="_blank">
-    <img src="cert.png" alt="IBM DevOps Professional" />
-</a>
+[![IBM AI Developer Professional](cert.png "Click to view IBM AI Developer Professional certificate")](https://coursera.org/share/20b0655ae5f74388ca2134578d180366)
+[![IBM DevOps Professional](cert.png "Click to view IBM DevOps Professional certificate")](https://coursera.org/share/1b4e7da361d1dae605841797cb7aee9c)
 
 
 ### 🛠 Tech Stack
