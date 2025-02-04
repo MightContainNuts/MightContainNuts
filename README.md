@@ -23,9 +23,9 @@ I am a highly experienced servant leader with a proven track record in driving s
 - **ISO 9001 Auditor**
 - **Six Sigma Black Belt**
 - **Agile Coach
-- **IBM AI Developer Profesional [![IBM AI Developer Profesional](cert.png)]([link_url](https://coursera.org/share/20b0655ae5f74388ca2134578d180366))**
-- **IBM DevOps Professional [![IBM DevOps Professional](cert.png)]([link_url](https://coursera.org/share/1b4e7da361d1dae605841797cb7aee9c))**
-![certification](cert.png)
+- **IBM AI Developer Profesional **
+- **IBM DevOps Professional **
+[![IBM AI Developer Profesional](cert.png)]([link_url](https://coursera.org/share/20b0655ae5f74388ca2134578d180366))[![IBM DevOps Professional](cert.png)]([link_url](https://coursera.org/share/1b4e7da361d1dae605841797cb7aee9c))
 
 
 ### 🛠 Tech Stack
