@@ -1,5 +1,5 @@
 # mightcontainnuts.gitlab.io
-![Logo](logo.png)
+![Logo](new_logo.png)
 
 
 # Dean Didion | Generative AI Engineer & Agile Leader
