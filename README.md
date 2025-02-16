@@ -28,9 +28,11 @@ Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative 
 - **Agile Coach**
 - **IBM AI Developer Profesional**
 - **IBM DevOps Professional**
+- **IBM Data Science**
   
-[![IBM AI Developer Professional](cert.png "Click to view IBM AI Developer Professional certificate")](https://coursera.org/share/20b0655ae5f74388ca2134578d180366)
-[![IBM DevOps Professional](cert.png "Click to view IBM DevOps Professional certificate")](https://coursera.org/share/1b4e7da361d1dae605841797cb7aee9c)
+[![IBM AI Developer Professional](cert.png "Click to view IBM AI Developer Professional certificate")](https://www.coursera.org/account/accomplishments/specialization/certificate/FH69YBY7P8O9)
+[![IBM DevOps Professional](cert.png "Click to view IBM DevOps Professional certificate")](https://www.coursera.org/account/accomplishments/specialization/certificate/YG2HCI8SQXHH)
+[![IBM Data Science Specialisation](cert.png "Click to view IBM Data Science certificate")](https://www.coursera.org/account/accomplishments/professional-cert/XBUKLSUI8F82)
 
 
 ## 🛠 Tech Stack
