@@ -21,7 +21,7 @@ Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative 
 -  ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 
-### 🎓 Education & Certifications
+## 🎓 Education & Certifications
 - **B.Sc.(Mech)**
 - **ISO 9001 Auditor**
 - **Six Sigma Black Belt**
@@ -46,33 +46,33 @@ Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative 
   ![R](https://img.shields.io/badge/R-4.0.5-blue)
   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-- **Generative AI Frameworks**: 
+- ***Generative AI Frameworks**: 
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0-green)
   ![PyTorch](https://img.shields.io/badge/PyTorch-1.9-red)
   ![GANs](https://img.shields.io/badge/GANs-black)
   ![VAE](https://img.shields.io/badge/VAE-blue)
   ![GPT](https://img.shields.io/badge/GPT-3.5-orange)
 
-- **NLP**: 
+- ***NLP**: 
   ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-blue)
   ![BERT](https://img.shields.io/badge/BERT-orange)
   ![GPT-3](https://img.shields.io/badge/GPT-3-blue)
 
-- **Tools**: 
+- ***Tools**: 
   ![Numpy](https://img.shields.io/badge/Numpy-1.21-orange)
   ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue)
   ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)
   ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2.0-yellowgreen)
 
-- **Cloud**: 
+- ***Cloud**: 
   ![AWS](https://img.shields.io/badge/AWS-EC2-orange)
   ![GCP](https://img.shields.io/badge/GCP-Google%20Cloud-blue)
   ![OpenAI](https://img.shields.io/badge/OpenAI-API-blue)
   ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-AI-orange)
 
 
-### 📝 latests hashnode posts
+## 📝 latests hashnode posts
 
 You can check out all my posts on my hashnode 
 [blog](https://surestride.hashnode.dev/?source=top_nav_blog_home)
