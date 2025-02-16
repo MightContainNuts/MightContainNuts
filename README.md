@@ -2,21 +2,22 @@
 ![Logo](surestridelogo.png)
 
 
-# Dean Didion
+# Dean Didion | Generative AI Engineer & Agile Leader
 
 ### 🚀 Profile Summary
-I am a highly experienced servant leader with a proven track record in driving successful fintech product delivery. My expertise lies in bridging the gap between technology and product, with a deep understanding of agile methodologies. I am passionate about fostering high-performing teams and excel in stakeholder management and continuous improvement, delivering exceptional results in complex, fast-paced environments.
+Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative AI**. My expertise spans from AI-driven solutions in product development to cutting-edge research in **Generative Models** like GANs, transformers, and creative AI. I aim to bring AI closer to human creativity, applying deep learning to generate content, art, and innovative solutions.
 
-### 🌟 Key Skills
-- **Delivery Management**
-- **FinTech Product Development**
-- **Stakeholder Management**
-- **Agile Methodologies and Frameworks:** Scrum, Kanban, Hybrid, TDD, BDD
-- **Cross-Functional Collaboration**
-- **Project Management:** PRINCE2, PMP, QM-A, QM-B, QM-F
-- **Cross-Cultural Collaboration**
-- **Problem-Solving and Decision Making**
-- **Leadership and Team Building**
+## 🌟 Key Skills
+- **Generative AI**: GANs, VAEs, Transformers (GPT, BERT), Text-to-Image Generation
+- **Machine Learning**: Deep Learning, Reinforcement Learning, Supervised & Unsupervised Learning
+- **Natural Language Processing (NLP)**: Text Generation, Text Summarization, Sentiment Analysis
+- **Creative AI**: AI-Generated Art, Music, and Content
+- **AI Tools & Frameworks**: TensorFlow, PyTorch, Keras, Hugging Face, OpenAI GPT
+
+## 🚀 Personal Generative AI Projects
+- **[Thrive Well](https://github.com/MightContainNuts/thrive_well)**: n AI-powered Flask application designed to support health, wellness, and recovery. This server integrates generative AI models to offer personalized recommendations, track progress, and optimize well-being routines. Ideal for individuals looking to enhance their physical and mental health through data-driven insights.
+- **[Wanderwise](https://github.com/MightContainNuts/wanderwise)**: AI supported travel itinery creator for upcoming trips
+
 
 ### 🎓 Education & Certifications
 - **B.Sc.(Mech)**
@@ -30,12 +31,13 @@ I am a highly experienced servant leader with a proven track record in driving s
 [![IBM DevOps Professional](cert.png "Click to view IBM DevOps Professional certificate")](https://coursera.org/share/1b4e7da361d1dae605841797cb7aee9c)
 
 
-### 🛠 Tech Stack
-- **Languages:** Python, R, Julia, JavaScript
-- **Tools:** Docker, BDD, TDD, CI/CD pipelines, Webscraping, AI, Numpy, Pandas, Scikit-learn, 
+## 🛠 Tech Stack
+- **Languages**: Python, R, JavaScript
+- **Generative AI Frameworks**: TensorFlow, PyTorch, GANs, VAEs, GPT (Generative Pretrained Transformers)
+- **NLP**: Hugging Face, BERT, GPT-3, Text Generation, Summarization
+- **Tools**: Numpy, Pandas, Jupyter, Docker, GitHub Actions
+- **Cloud**: AWS, GCP, OpenAI API, IBM Watson AI
 
-### 🚴‍♂️ Personal Interests
-I am passionate about cycling, rowing, and yoga, which help me maintain a balanced lifestyle and enhance my focus and productivity.
 
 ### 📝 latests hashnode posts
 
