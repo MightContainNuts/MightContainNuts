@@ -42,8 +42,6 @@ Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative 
 - **Tools**: Numpy, Pandas, Jupyter, Docker, GitHub Actions
 - **Cloud**: AWS, GCP, OpenAI API, IBM Watson AI# 🛠 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MightContainNuts&layout=compact)
-
 - **Languages**: 
   ![Python](https://img.shields.io/badge/Python-3.12-blue)
   ![R](https://img.shields.io/badge/R-4.0.5-blue)
