@@ -1,5 +1,4 @@
 # mightcontainnuts.gitlab.io
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MightContainNuts)
 ![Logo](logo.png)
 
 
@@ -18,7 +17,9 @@ Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative 
 
 ## 🚀 Personal Generative AI Projects
 - **[Thrive Well](https://github.com/MightContainNuts/thrive_well)**: n AI-powered Flask application designed to support health, wellness, and recovery. This server integrates generative AI models to offer personalized recommendations, track progress, and optimize well-being routines. Ideal for individuals looking to enhance their physical and mental health through data-driven insights.
+-  ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 - **[Wanderwise](https://github.com/MightContainNuts/wanderwise)**: AI supported travel itinery creator for upcoming trips
+-  ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 
 ### 🎓 Education & Certifications
@@ -39,7 +40,39 @@ Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative 
 - **Generative AI Frameworks**: TensorFlow, PyTorch, GANs, VAEs, GPT (Generative Pretrained Transformers)
 - **NLP**: Hugging Face, BERT, GPT-3, Text Generation, Summarization
 - **Tools**: Numpy, Pandas, Jupyter, Docker, GitHub Actions
-- **Cloud**: AWS, GCP, OpenAI API, IBM Watson AI
+- **Cloud**: AWS, GCP, OpenAI API, IBM Watson AI# 🛠 Tech Stack
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MightContainNuts&layout=compact)
+
+- **Languages**: 
+  ![Python](https://img.shields.io/badge/Python-3.12-blue)
+  ![R](https://img.shields.io/badge/R-4.0.5-blue)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+- **Generative AI Frameworks**: 
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0-green)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-1.9-red)
+  ![GANs](https://img.shields.io/badge/GANs-black)
+  ![VAE](https://img.shields.io/badge/VAE-blue)
+  ![GPT](https://img.shields.io/badge/GPT-3.5-orange)
+
+- **NLP**: 
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-blue)
+  ![BERT](https://img.shields.io/badge/BERT-orange)
+  ![GPT-3](https://img.shields.io/badge/GPT-3-blue)
+
+- **Tools**: 
+  ![Numpy](https://img.shields.io/badge/Numpy-1.21-orange)
+  ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)
+  ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2.0-yellowgreen)
+
+- **Cloud**: 
+  ![AWS](https://img.shields.io/badge/AWS-EC2-orange)
+  ![GCP](https://img.shields.io/badge/GCP-Google%20Cloud-blue)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-API-blue)
+  ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-AI-orange)
 
 
 ### 📝 latests hashnode posts
