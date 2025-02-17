@@ -46,6 +46,7 @@ Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative 
 - **Languages**: 
   ![Python](https://img.shields.io/badge/Python-3.12-blue)
   ![R](https://img.shields.io/badge/R-4.0.5-blue)
+  ![Julia](https://img.shields.io/badge/Julia-1.11-green)
   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 - ***Generative AI Frameworks**: 
