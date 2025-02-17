@@ -39,7 +39,7 @@ AI supported travel itinery creator for upcoming trips
 
 
 ## 🛠 Tech Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MightContainNuts&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MightContainNuts&layout=compact&langs_count=10)
 
 - **Languages**: 
   ![Python](https://img.shields.io/badge/Python-3.12-blue)
