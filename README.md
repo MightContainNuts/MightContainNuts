@@ -15,11 +15,13 @@ Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative 
 - **AI Tools & Frameworks**: TensorFlow, PyTorch, Keras, Hugging Face, OpenAI GPT
 
 ## 🚀 Personal Generative AI Projects
-- **[Thrive Well](https://github.com/MightContainNuts/thrive_well)**:
-  An AI-powered Flask application designed to support health, wellness, and recovery. This server integrates generative AI models to offer personalized recommendations, track progress, and optimize well-being routines. Ideal for individuals looking to enhance their physical and mental health through data-driven insights.
--  ![Build](https://img.shields.io/badge/build-passing-brightgreen)
-- **[Wanderwise](https://github.com/MightContainNuts/wanderwise)**: AI supported travel itinery creator for upcoming trips
--  ![Build](https://img.shields.io/badge/build-passing-brightgreen)
+- **[Thrive Well](https://github.com/MightContainNuts/thrive_well)** :  ![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
+An AI-powered Flask application designed to support health, wellness, and recovery. This server integrates generative AI models to offer personalized recommendations, track progress, and optimize well-being routines. Ideal for individuals looking to enhance their physical and mental health through data-driven insights.
+
+- **[Wanderwise](https://github.com/MightContainNuts/wanderwise)**: ![Build](https://img.shields.io/badge/build-passing-brightgreen)
+- AI supported travel itinery creator for upcoming trips
+-  
 
 
 ## 🎓 Education & Certifications
