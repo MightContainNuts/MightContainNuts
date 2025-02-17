@@ -37,11 +37,6 @@ Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative 
 
 ## 🛠 Tech Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MightContainNuts&layout=compact)
-- **Languages**: Python, R, JavaScript
-- **Generative AI Frameworks**: TensorFlow, PyTorch, GANs, VAEs, GPT (Generative Pretrained Transformers)
-- **NLP**: Hugging Face, BERT, GPT-3, Text Generation, Summarization
-- **Tools**: Numpy, Pandas, Jupyter, Docker, GitHub Actions
-- **Cloud**: AWS, GCP, OpenAI API, IBM Watson AI# 🛠 Tech Stack
 
 - **Languages**: 
   ![Python](https://img.shields.io/badge/Python-3.12-blue)
