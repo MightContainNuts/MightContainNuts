@@ -48,7 +48,7 @@ AI supported travel itinery creator for upcoming trips
   ![Julia](https://img.shields.io/badge/Julia-1.11-green)
   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-- ***Generative AI Frameworks**:
+- ***Generative AI Frameworks***:
   
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0-green)
   ![PyTorch](https://img.shields.io/badge/PyTorch-1.9-red)
