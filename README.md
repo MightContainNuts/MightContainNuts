@@ -56,13 +56,13 @@ AI supported travel itinery creator for upcoming trips
   ![VAE](https://img.shields.io/badge/VAE-blue)
   ![GPT](https://img.shields.io/badge/GPT-3.5-orange)
 
-- ***NLP**:
+- ***NLP***:
   
   ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-blue)
   ![BERT](https://img.shields.io/badge/BERT-orange)
   ![GPT-3](https://img.shields.io/badge/GPT-3-blue)
 
-- ***Tools**:
+- ***Tools***:
   
   ![Numpy](https://img.shields.io/badge/Numpy-1.21-orange)
   ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue)
@@ -70,7 +70,7 @@ AI supported travel itinery creator for upcoming trips
   ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2.0-yellowgreen)
 
-- ***Cloud**:
+- ***Cloud***:
   
   ![AWS](https://img.shields.io/badge/AWS-EC2-orange)
   ![GCP](https://img.shields.io/badge/GCP-Google%20Cloud-blue)
