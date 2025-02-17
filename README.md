@@ -56,7 +56,8 @@ AI supported travel itinery creator for upcoming trips
   ![VAE](https://img.shields.io/badge/VAE-blue)
   ![GPT](https://img.shields.io/badge/GPT-3.5-orange)
 
-- ***NLP**: 
+- ***NLP**:
+  
   ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-blue)
   ![BERT](https://img.shields.io/badge/BERT-orange)
   ![GPT-3](https://img.shields.io/badge/GPT-3-blue)
