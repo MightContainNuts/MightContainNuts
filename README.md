@@ -23,7 +23,7 @@ An AI-powered Flask application designed to support health, wellness, and recove
 
 AI supported travel itinery creator for upcoming trips
 
-- **[The Companion]([https://github.com/MightContainNuts/wanderwise](https://github.com/yhupe/the-companion))**: ![Build](https://img.shields.io/badge/build-passing-brightgreen)
+- **[The Companion](https://github.com/yhupe/the-companion)**: ![Build](https://img.shields.io/badge/build-passing-brightgreen)
   
 AI supported app for the elderly, that uses twilio for WhatsApps messages to retrieve information, give reminders, check moods and make reccomendations
   
