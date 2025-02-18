@@ -20,9 +20,11 @@ Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative 
 An AI-powered Flask application designed to support health, wellness, and recovery. This server integrates generative AI models to offer personalized recommendations, track progress, and optimize well-being routines. Ideal for individuals looking to enhance their physical and mental health through data-driven insights.
 
 - **[Wanderwise](https://github.com/MightContainNuts/wanderwise)**: ![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
 AI supported travel itinery creator for upcoming trips
 
 - **[The Companion]([https://github.com/MightContainNuts/wanderwise](https://github.com/yhupe/the-companion))**: ![Build](https://img.shields.io/badge/build-passing-brightgreen)
+  
 AI supported app for the elderly, that uses twilio for WhatsApps messages to retrieve information, give reminders, check moods and make reccomendations
   
 
