@@ -25,8 +25,7 @@ AI supported travel itinery creator for upcoming trips
 
 - **[The Companion](https://github.com/yhupe/the-companion)**: ![Build](https://img.shields.io/badge/build-passing-brightgreen)
   
-AI supported app for the elderly, that uses twilio for WhatsApps messages to retrieve information, give reminders, check moods and make reccomendations
-  
+A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which we won). It uses OpenAI, diverse APIs to offer services to the elderly.   
 
 
 ## 🎓 Education & Certifications
