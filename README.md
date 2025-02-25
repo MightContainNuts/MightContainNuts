@@ -88,7 +88,7 @@ You can check out all my posts on my hashnode
 [blog](https://surestride.hashnode.dev/?source=top_nav_blog_home)
 
 <!-- BEGIN HASHNODE ARTICLES -->
-1. [PR Ettiquette : my pet likes, hates](https://surestride.hashnode.dev/pr-ettiquette-my-pet-likes-hates)
-2. [How to Install Poetry on PyCharm and Use It as an Interpreter](https://surestride.hashnode.dev/how-to-install-poetry-on-pycharm-and-use-it-as-an-interpreter)
-3. [Understanding the Python @property Decorator:  (Getters, Setters, and why you should be using them)](https://surestride.hashnode.dev/understanding-the-python-property-decorator-getters-setters-and-why-you-should-be-using-them)
+1. [How to Install Poetry on PyCharm and Use It as an Interpreter](https://surestride.hashnode.dev/how-to-install-poetry-on-pycharm-and-use-it-as-an-interpreter)
+2. [Understanding the Python @property Decorator:  (Getters, Setters, and why you should be using them)](https://surestride.hashnode.dev/understanding-the-python-property-decorator-getters-setters-and-why-you-should-be-using-them)
+3. [Automating README Updates with Hashnode Articles Using GitHub Actions](https://surestride.hashnode.dev/automating-readme-updates-with-hashnode-articles-using-github-actions)
 <!-- END HASHNODE ARTICLES -->
