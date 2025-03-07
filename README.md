@@ -59,6 +59,8 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
   ![GANs](https://img.shields.io/badge/GANs-black)
   ![VAE](https://img.shields.io/badge/VAE-blue)
   ![GPT](https://img.shields.io/badge/GPT-3.5-orange)
+  ![Langchain](https://img.shields.io/badge/Langchain-1.3.3-green)
+  
 
 - ***NLP***:
   
@@ -70,7 +72,6 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
   
   ![Numpy](https://img.shields.io/badge/Numpy-1.21-orange)
   ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue)
-  ![Langchain](https://img.shields.io/badge/Langchain-1.3.3-green)
   ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)
   ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2.0-yellowgreen)
