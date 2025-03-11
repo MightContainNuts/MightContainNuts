@@ -12,7 +12,7 @@ Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative 
 - **Machine Learning**: Deep Learning, Reinforcement Learning, Supervised & Unsupervised Learning
 - **Natural Language Processing (NLP)**: Text Generation, Text Summarization, Sentiment Analysis
 - **Creative AI**: AI-Generated Art, Music, and Content
-- **AI Tools & Frameworks**: TensorFlow, PyTorch, Keras, Hugging Face, OpenAI GPT, LangChain
+- **AI Tools & Frameworks**: TensorFlow, PyTorch, Keras, Hugging Face, OpenAI GPT, LangChain, langGraph
 
 ## 🚀 Personal Generative AI Projects
 - **[Thrive Well](https://github.com/MightContainNuts/thrive_well)** :  ![Build](https://img.shields.io/badge/build-passing-brightgreen)
