@@ -8,11 +8,11 @@
 Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative AI**. My expertise spans from AI-driven solutions in product development to cutting-edge research in **Generative Models** like GANs, transformers, and creative AI. I aim to bring AI closer to human creativity, applying deep learning to generate content, art, and innovative solutions.
 
 ## 🌟 Key Skills
-- **Generative AI**: GANs, VAEs, Transformers (GPT, BERT), Text-to-Image Generation
+- **Generative AI**: GANs, VAEs, Transformers (GPT, BERT)
 - **Machine Learning**: Deep Learning, Reinforcement Learning, Supervised & Unsupervised Learning
 - **Natural Language Processing (NLP)**: Text Generation, Text Summarization, Sentiment Analysis
-- **Creative AI**: AI-Generated Art, Music, and Content
-- **AI Tools & Frameworks**: TensorFlow, PyTorch, Keras, Hugging Face, OpenAI GPT, LangChain, langGraph
+- **Creative AI**: Chatbots, Gen AI spoorted apps
+- **AI Tools & Frameworks**: TensorFlow, PyTorch, Keras, Hugging Face, OpenAI GPT, LangChain, LangGraph
 
 ## 🚀 Personal Generative AI Projects
 - **[Thrive Well](https://github.com/MightContainNuts/thrive_well)** :  ![Build](https://img.shields.io/badge/build-passing-brightgreen)
