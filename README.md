@@ -2,7 +2,7 @@
 ![Logo](new_logo.png)
 
 
-# Dean Didion | Generative AI Engineer & Agile Leader
+# Dean Didion | IT Manager, Generative AI Engineer & Agile Leader
 
 ### 🚀 Profile Summary
 Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative AI**. My expertise spans from AI-driven solutions in product development to cutting-edge research in **Generative Models** like GANs, transformers, and creative AI. I aim to bring AI closer to human creativity, applying deep learning to generate content, art, and innovative solutions.
