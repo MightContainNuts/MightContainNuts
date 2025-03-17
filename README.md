@@ -8,7 +8,7 @@
 Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative AI**. My expertise spans from AI-driven solutions in product development to cutting-edge research in **Generative Models** like GANs, transformers, and creative AI. I aim to bring AI closer to human creativity, applying deep learning to generate content, art, and innovative solutions.
 For more infor - check out my CV
 
-[![CV](CV.png "Click to view my CV")](https://github.com/MightContainNuts/MightContainNuts/blob/main/202503_Resume_Eng.pdf)
+[![CV](CV.png "Click to view my CV"){width=300 height=200}(https://github.com/MightContainNuts/MightContainNuts/blob/main/202503_Resume_Eng.pdf)
 
 
 ## 🌟 Key Skills
