@@ -22,6 +22,25 @@
     </div>
 </div>
 
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative AI**.  
+      My expertise spans AI-driven solutions in product development and cutting-edge research  
+      in **Generative Models** like GANs, transformers, and creative AI.  
+      I aim to bring AI closer to human creativity, applying deep learning  
+      to generate content, art, and innovative solutions.  
+      <br><br>
+      👉 **For more info, check out my CV:**
+    </td>
+    <td style="vertical-align: top; text-align: right;">
+      <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/202503_Resume_Eng.pdf">
+        <img src="CV.png" alt="Click to view my CV" width="120">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ## 🌟 Key Skills
 - **Generative AI**: GANs, VAEs, Transformers (GPT, BERT)
