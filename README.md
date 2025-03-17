@@ -13,8 +13,8 @@
       My expertise spans AI-driven solutions in product development and cutting-edge research  
       in **Generative Models** like GANs, transformers, and creative AI.  
       I aim to bring AI closer to human creativity, applying deep learning  
-      to generate content, art, and innovative solutions.
-      **Check out my CV** 👉
+      to generate content, art, and innovative solutions.<br><br>
+      Check out my CV 👉
     </td>
     <td style="vertical-align: top; text-align: center; padding-bottom: 10px;">  
       <br>
