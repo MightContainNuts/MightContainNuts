@@ -14,11 +14,10 @@
       in **Generative Models** like GANs, transformers, and creative AI.  
       I aim to bring AI closer to human creativity, applying deep learning  
       to generate content, art, and innovative solutions.  
-      <br><br>
-       👇 **For more info check out my CV:** 👇
+
     </td>
     <td style="vertical-align: top; text-align: right;">
-        **For more info, check out my CV:**
+        👇 **For more info, check out my CV:** 👇
       <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/202503_Resume_Eng.pdf">
         <img src="CV.png" alt="Click to view my CV" width="120">
       </a>
