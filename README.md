@@ -48,17 +48,46 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
 
 
 ## 🎓 Education & Certifications
-- **B.Sc.(Mech)**
-- **ISO 9001 Auditor**
-- **Six Sigma Black Belt**
-- **Agile Coach**
-- **IBM AI Developer Profesional**
-- **IBM DevOps Professional**
-- **IBM Data Science**
-  
-[![IBM AI Developer Professional](cert.png "Click to view IBM AI Developer Professional certificate")](https://www.coursera.org/account/accomplishments/specialization/certificate/FH69YBY7P8O9)
-[![IBM DevOps Professional](cert.png "Click to view IBM DevOps Professional certificate")](https://www.coursera.org/account/accomplishments/specialization/certificate/YG2HCI8SQXHH)
-[![IBM Data Science Specialisation](cert.png "Click to view IBM Data Science certificate")](https://www.coursera.org/account/accomplishments/professional-cert/XBUKLSUI8F82)
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <!-- Left Column: Academic & Professional Certifications -->
+    <td style="vertical-align: top; padding-right: 20px; width: 50%;">
+      <strong>B.Sc. (Mech)</strong> <br>
+      <strong>ISO 9001 Auditor</strong> <br>
+      <strong>Six Sigma Black Belt</strong> <br>
+      <strong>Agile Coach</strong> <br>
+    </td>
+    <!-- Right Column: IBM Professional Certifications with Links -->
+    <td style="vertical-align: top; text-align: center; width: 50%;">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/FH69YBY7P8O9">
+        <img src="cert.png" alt="IBM AI Developer Professional" width="100">
+      </a>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YG2HCI8SQXHH">
+        <img src="cert.png" alt="IBM DevOps Professional" width="100">
+      </a>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/XBUKLSUI8F82">
+        <img src="cert.png" alt="IBM Data Science Specialisation" width="100">
+      </a>
+    </td>
+  </tr>
+
+  <!-- Bottom Row: Credly Badges -->
+  <tr>
+    <td colspan="2" style="text-align: center; padding-top: 20px;">
+      <!-- Example Badges (Replace with actual Credly badge links) -->
+      <a href="https://www.credly.com/badges/0d7a7e30-7a79-45bf-a527-69fbd353c306">
+        <img src="credly_badge1.png](https://images.credly.com/size/340x340/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" alt="Python Project for AI and Application Development" width="80">
+      </a>
+      <a href="https://www.credly.com/your-badge-link">
+        <img src="credly_badge2.png" alt="Credly Badge 2" width="80">
+      </a>
+      <a href="https://www.credly.com/your-badge-link">
+        <img src="credly_badge3.png" alt="Credly Badge 3" width="80">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠 Tech Stack
