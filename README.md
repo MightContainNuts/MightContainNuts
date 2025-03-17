@@ -57,6 +57,9 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       <strong>ISO 9001 Auditor</strong> <br>
       <strong>Six Sigma Black Belt</strong> <br>
       <strong>Agile Coach</strong> <br>
+      <strong>IBM AI Developer Proffessional</strong> <br>
+      <strong>IBM AI DevOps Proffessional</strong> <br>
+      <strong>IBM AI Data Science Specialistl</strong> <br>
     </td>
     <!-- Right Column: IBM Professional Certifications with Links -->
     <td style="vertical-align: top; text-align: center; width: 50%;">
