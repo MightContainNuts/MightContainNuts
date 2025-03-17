@@ -74,6 +74,8 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/XBUKLSUI8F82">
         <img src="cert.png" alt="IBM Data Science Specialisation" width="100">
       </a>
+
+      
     </td>
   </tr>
 
@@ -82,7 +84,7 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
     <td colspan="2" style="text-align: center; padding-top: 20px;">
       <!-- Example Badges (Replace with actual Credly badge links) -->
       <a href="https://www.credly.com/badges/0d7a7e30-7a79-45bf-a527-69fbd353c306">
-        <img src="credly_badge1.png](https://images.credly.com/size/340x340/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" alt="Python Project for AI and Application Development" width="80">
+        <img src="https://images.credly.com/size/80x80/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" alt="Python Project for AI and Application Development" width="80">
       </a>
       <a href="https://www.credly.com/your-badge-link">
         <img src="credly_badge2.png" alt="Credly Badge 2" width="80">
