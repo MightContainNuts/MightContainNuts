@@ -53,13 +53,15 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
   <tr>
     <!-- Left Column: Academic & Professional Certifications -->
     <td style="vertical-align: top; padding-right: 20px; width: 50%;">
-      <strong>B.Sc. (Mech)</strong> <br>
-      <strong>ISO 9001 Auditor</strong> <br>
-      <strong>Six Sigma Black Belt</strong> <br>
-      <strong>Agile Coach</strong> <br>
-      <strong>IBM AI Developer Proffessional</strong> <br>
-      <strong>IBM AI DevOps Proffessional</strong> <br>
-      <strong>IBM AI Data Science Specialistl</strong> <br>
+      <ul>            
+          <li><strong>B.Sc. (Mech)</strong> <br></li>
+          <li><strong>ISO 9001 Auditor</strong> <br></li>
+          <li><strong>Six Sigma Black Belt</strong> <br></li>
+          <li><strong>Agile Coach</strong> <br></li>
+          <li><strong>IBM AI Developer Proffessional</strong> <br></li>
+          <li><strong>IBM AI DevOps Proffessional</strong> <br></li>
+          <li><strong>IBM AI Data Science Specialistl</strong> <br></li>
+      </ul>
     </td>
     <!-- Right Column: IBM Professional Certifications with Links -->
     <td style="vertical-align: top; text-align: center; width: 50%;">
