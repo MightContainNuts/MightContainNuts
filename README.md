@@ -15,8 +15,7 @@
       I aim to bring AI closer to human creativity, applying deep learning  
       to generate content, art, and innovative solutions.  
     </td>
-    <td style="vertical-align: top; text-align: center; padding-bottom: 10px;">
-      CV 👇  
+    <td style="vertical-align: top; text-align: center; padding-bottom: 10px;">  
       <br>
       <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/202503_Resume_Eng.pdf">
         <img src="CV.png" alt="Click to view my CV" width="150">
