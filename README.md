@@ -5,22 +5,6 @@
 # Dean Didion | IT Manager, Generative AI Engineer & Agile Leader
 
 ### 🚀 Profile Summary
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; margin-right: 20px;">
-        <p>Hi, I'm Dean! I'm an experienced servant leader with a passion for **Generative AI**.  
-           My expertise spans from AI-driven solutions in product development to cutting-edge research in **Generative Models**  
-           like GANs, transformers, and creative AI. I aim to bring AI closer to human creativity, applying deep learning  
-           to generate content, art, and innovative solutions.  
-           <br><br>
-           👉 <strong>For more info, check out my CV:</strong>
-        </p>
-    </div>
-    <div style="flex: 1; text-align: right;">
-        <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/202503_Resume_Eng.pdf">
-            <img src="CV.png" alt="Click to view my CV" width="120">
-        </a>
-    </div>
-</div>
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
