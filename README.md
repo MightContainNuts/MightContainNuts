@@ -19,7 +19,7 @@
       👇 check out my CV 👇  
       <br>
       <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/202503_Resume_Eng.pdf">
-        <img src="CV.png" alt="Click to view my CV" width="120">
+        <img src="CV.png" alt="Click to view my CV" width="150">
       </a>
     </td>
   </tr>
