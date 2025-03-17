@@ -84,12 +84,34 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       <a href="https://www.credly.com/badges/0d7a7e30-7a79-45bf-a527-69fbd353c306">
         <img src="https://images.credly.com/size/80x80/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" alt="Python Project for AI and Application Development" width="80">
       </a>
-      <a href="https://www.credly.com/your-badge-link">
-        <img src="credly_badge2.png" alt="Credly Badge 2" width="80">
+      <a href="https://www.credly.com/badges/4986a243-09dc-4120-a95e-27695155fabf">
+        <img src="https://images.credly.com/size/80x80/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png" alt="Container & Kubernetes Essentials V2" width="80">
       </a>
-      <a href="https://www.credly.com/your-badge-link">
-        <img src="credly_badge3.png" alt="Credly Badge 3" width="80">
+      <a href="https://www.credly.com/badges/ed6b6e87-6a96-4ba6-9b39-37f19812a51d">
+        <img src="https://images.credly.com/size/80x80/images/eaaf4a45-b93e-41d1-91d3-d331c6210314/image.png" alt="Application Development using Microservices and Serverless" width="80">
       </a>
+      <a href="https://www.credly.com/badges/37d5ec0b-8723-4770-87d0-c8a109c08716">
+        <img src="https://images.credly.com/size/80x80/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png" alt="Databases and SQL for Data" width="80">
+      </a>
+      <a href="https://www.credly.com/badges/e9bd5a54-aab2-449e-b74b-0cb52b1378a4">
+        <img src="https://images.credly.com/size/80x80/images/e462102c-b2ee-4208-aca0-b58f53331266/image.png" alt="Building Generative AI-Powered Applications with Python" width="80">
+      </a>
+      <a href="https://www.credly.com/badges/246b8986-6d60-43e2-a996-06e3713e75a3">
+        <img src="https://images.credly.com/size/80x80/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python for Data Science and AI" width="80">
+      </a>
+      <a href="https://www.credly.com/badges/c8d1e957-3030-4887-b7e8-b57791a9015e">
+        <img src="https://images.credly.com/size/80x80/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" alt="Python for Data Science and AI" width="80">
+      </a>
+       <a href="https://www.credly.com/badges/6dcd886d-f394-43e0-94b3-558e17e4b28d">
+        <img src="https://images.credly.com/size/80x80/images/a9f5d0ac-5ee8-47a6-a9df-09468f26e401/image.png" alt="Generative AI and LLMs: Architecture and Data Preparation" width="80">
+      </a>
+      <a href="https://www.credly.com/badges/f8476783-20c1-488a-b4fc-6f6b60d44466">
+        <img src="https://images.credly.com/size/80x80/images/954a697e-66c0-45c3-8681-ced968dfa73e/blob" alt="Generative AI Foundational Models for NLP & Language Understanding" width="80">
+      </a>
+       <a href="https://www.credly.com/badges/b963ddb5-e3b1-4417-99d1-af7d4e3b369e">
+        <img src="https://images.credly.com/size/80x80/images/bc7582ae-95c6-4e92-a425-d355c65b7d10/image.png" alt="Generative AI Language Modeling with Transformers" width="80">
+      </a>
+      
     </td>
   </tr>
 </table>
