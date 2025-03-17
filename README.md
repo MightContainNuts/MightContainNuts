@@ -74,8 +74,6 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/XBUKLSUI8F82">
         <img src="cert.png" alt="IBM Data Science Specialisation" width="100">
       </a>
-
-      
     </td>
   </tr>
 
