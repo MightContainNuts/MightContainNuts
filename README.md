@@ -111,7 +111,6 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
        <a href="https://www.credly.com/badges/b963ddb5-e3b1-4417-99d1-af7d4e3b369e">
         <img src="https://images.credly.com/size/80x80/images/bc7582ae-95c6-4e92-a425-d355c65b7d10/image.png" alt="Generative AI Language Modeling with Transformers" width="80">
       </a>
-      
     </td>
   </tr>
 </table>
