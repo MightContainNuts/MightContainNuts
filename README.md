@@ -1,5 +1,5 @@
 # mightcontainnuts.gitlab.io
-![Logo](new_logo.png)
+![Logo](static/new_logo.png)
 
 
 # Dean Didion | IT Manager, Generative AI Engineer & Agile Leader
@@ -20,8 +20,8 @@ LinkedIn: [Dean Didion](https://www.linkedin.com/in/deandidion/)
     </td>
     <td style="vertical-align: top; text-align: center; padding-bottom: 10px;">  
       <br>
-      <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/202503_Resume_Eng.pdf">
-        <img src="CV.png" alt="Click to view my CV" width="150">
+      <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/static/202503_Resume_Eng.pdf">
+        <img src="static/CV.png" alt="Click to view my CV" width="150">
       </a>
     </td>
   </tr>
@@ -60,21 +60,21 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
           <li><strong>ISO 9001 Auditor</strong> <br></li>
           <li><strong>Six Sigma Black Belt</strong> <br></li>
           <li><strong>Agile Coach</strong> <br></li>
-          <li><strong>IBM AI Developer Proffessional</strong> <br></li>
-          <li><strong>IBM AI DevOps Proffessional</strong> <br></li>
-          <li><strong>IBM AI Data Science Specialistl</strong> <br></li>
+          <li><strong>IBM AI Developer Professional</strong> <br></li>
+          <li><strong>IBM AI DevOps Professional</strong> <br></li>
+          <li><strong>IBM AI Data Science Specialist</strong> <br></li>
       </ul>
     </td>
     <!-- Right Column: IBM Professional Certifications with Links -->
     <td style="vertical-align: top; text-align: center; width: 50%;">
       <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/FH69YBY7P8O9">
-        <img src="cert.png" alt="IBM AI Developer Professional" width="100">
+        <img src="static/cert.png" alt="IBM AI Developer Professional" width="100">
       </a>
       <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YG2HCI8SQXHH">
-        <img src="cert.png" alt="IBM DevOps Professional" width="100">
+        <img src="static/cert.png" alt="IBM DevOps Professional" width="100">
       </a>
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/XBUKLSUI8F82">
-        <img src="cert.png" alt="IBM Data Science Specialisation" width="100">
+        <img src="static/cert.png" alt="IBM Data Science Specialisation" width="100">
       </a>
     </td>
   </tr>
