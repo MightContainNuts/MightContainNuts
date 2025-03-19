@@ -178,3 +178,7 @@ You can check out all my posts on my hashnode
 2. [How to Install Poetry on PyCharm and Use It as an Interpreter](https://surestride.hashnode.dev/how-to-install-poetry-on-pycharm-and-use-it-as-an-interpreter)
 3. [Understanding the Python @property Decorator:  (Getters, Setters, and why you should be using them)](https://surestride.hashnode.dev/understanding-the-python-property-decorator-getters-setters-and-why-you-should-be-using-them)
 <!-- END HASHNODE ARTICLES -->
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mightcontainnuts&show_icons=true&theme=radical)
