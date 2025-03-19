@@ -95,6 +95,11 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       <a href="https://www.credly.com/badges/37d5ec0b-8723-4770-87d0-c8a109c08716">
         <img src="https://images.credly.com/size/80x80/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png" alt="Databases and SQL for Data" width="80">
       </a>
+      <a href="https://www.credly.com/earner/earned/badge/964e2868-cd88-4477-b76e-9f9328837d67">
+        <img src="https://images.credly.com/size/80x80/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png" alt="Generative AI Essentials for Software Developers" width="80">
+      </a>
+        <a href="https://www.credly.com/badges/0d7a7e30-7a79-45bf-a527-69fbd353c306">
+            <img src="https://images.credly.com/size/80x80/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" alt="Python Project for AI and Application Development" width="80">
       <a href="https://www.credly.com/badges/e9bd5a54-aab2-449e-b74b-0cb52b1378a4">
         <img src="https://images.credly.com/size/80x80/images/e462102c-b2ee-4208-aca0-b58f53331266/image.png" alt="Building Generative AI-Powered Applications with Python" width="80">
       </a>
