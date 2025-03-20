@@ -121,6 +121,9 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       <a href="https://www.credly.com/earner/earned/badge/1c24ecb7-cacd-4dda-9f45-8e2d3767bb3c">
         <img src="https://images.credly.com/size/80x80/images/6387f397-234b-480c-a0a0-4f9d6f8654a8/blob" alt="Generative AI Engineering with Transformers & LLMs" width="80">
       </a>
+      <a href="https://www.credly.com/badges/5e26e094-0db1-43c2-aa61-697fa0371897">
+        <img src="https://images.credly.com/size/80x80/images/e61e6ff9-3502-4d64-b726-64f932ffbf02/Coursera_20Generative_20AI_20Advanced_20Fine_20Tuning_20for_20LLMs.png" alt="Generative AI Engineering with Transformers & LLMs" width="80">
+      </a>
     </td>
   </tr>
 </table>
