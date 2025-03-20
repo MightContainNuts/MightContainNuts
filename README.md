@@ -1,4 +1,4 @@
-# mightcontainnuts.gitlab.io
+# containerising.gitlab.io
 ![Logo](static/new_logo.png)
 
 
@@ -60,22 +60,31 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
           <li><strong>ISO 9001 Auditor</strong> <br></li>
           <li><strong>Six Sigma Black Belt</strong> <br></li>
           <li><strong>Agile Coach</strong> <br></li>
-          <li><strong>IBM AI Developer Professional</strong> <br></li>
-          <li><strong>IBM AI DevOps Professional</strong> <br></li>
-          <li><strong>IBM AI Data Science Specialist</strong> <br></li>
+          <li><strong>AI Developer Professional</strong> <br></li>
+          <li><strong>AI DevOps Professional</strong> <br></li>
+          <li><strong>AI Data Science Specialist</strong> <br></li>
+          <li><strong>Generative AI Engineering with LLMs</strong> <br></li>
       </ul>
     </td>
     <!-- Right Column: IBM Professional Certifications with Links -->
     <td style="vertical-align: top; text-align: center; width: 50%;">
-      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/FH69YBY7P8O9">
+      <a href="https://coursera.org/share/20b0655ae5f74388ca2134578d180366">
         <img src="static/cert.png" alt="IBM AI Developer Professional" width="100">
       </a>
-      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YG2HCI8SQXHH">
+      <a href="https://coursera.org/share/1b4e7da361d1dae605841797cb7aee9c">
         <img src="static/cert.png" alt="IBM DevOps Professional" width="100">
       </a>
-      <a href="https://www.coursera.org/account/accomplishments/professional-cert/XBUKLSUI8F82">
+      <a href="https://coursera.org/share/3eeb9fb9660f140b31e91f1402a3730b">
         <img src="static/cert.png" alt="IBM Data Science Specialisation" width="100">
       </a>
+      <a href="https://coursera.org/share/24046cdb5104a1964fe0f4d0caabe515">
+        <img src="static/cert.png" alt="Generative AI Engineering with LLMs" width="100">
+      </a>
+
+
+
+
+
     </td>
   </tr>
 
@@ -125,7 +134,10 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
         <img src="https://images.credly.com/size/80x80/images/e61e6ff9-3502-4d64-b726-64f932ffbf02/Coursera_20Generative_20AI_20Advanced_20Fine_20Tuning_20for_20LLMs.png" alt="Generative AI Advanced Fine-Tuning for LLMs" width="80">
       </a>
       <a href="https://www.credly.com/badges/4d8bc2fc-bc02-4dc2-b85f-27b2c5f8d802">
-        <img src="https://images.credly.com/size/80x80/images/bc1ee755-d8b5-4068-91fa-60a6e05f12dc/Coursera_20AI_20Agents_20Using_20RAG_20and_20LangChain.png" alt="https://images.credly.com/size/80x80/images/bc1ee755-d8b5-4068-91fa-60a6e05f12dc/Coursera_20AI_20Agents_20Using_20RAG_20and_20LangChain.png" width="80">
+        <img src="https://images.credly.com/size/80x80/images/bc1ee755-d8b5-4068-91fa-60a6e05f12dc/Coursera_20AI_20Agents_20Using_20RAG_20and_20LangChain.png" alt="AI Agents Using RAG and LangChain" width="80">
+      </a>
+      <a href="https://www.credly.com/badges/3de70507-dab7-4626-a4d2-2af116b66d26">
+        <img src="https://images.credly.com/size/80x80/images/cdb44549-e7b6-47e7-a21f-160cecf8f38f/Coursera_20Generative_20AI_20Applications_20Specialist.png" alt="Generative AI Applications Specialist" width="80">
       </a>
     </td>
   </tr>
