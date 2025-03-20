@@ -1,4 +1,3 @@
-# containerising.gitlab.io
 ![Logo](static/new_logo.png)
 
 
