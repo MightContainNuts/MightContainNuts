@@ -122,7 +122,10 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
         <img src="https://images.credly.com/size/80x80/images/6387f397-234b-480c-a0a0-4f9d6f8654a8/blob" alt="Generative AI Engineering with Transformers & LLMs" width="80">
       </a>
       <a href="https://www.credly.com/badges/5e26e094-0db1-43c2-aa61-697fa0371897">
-        <img src="https://images.credly.com/size/80x80/images/e61e6ff9-3502-4d64-b726-64f932ffbf02/Coursera_20Generative_20AI_20Advanced_20Fine_20Tuning_20for_20LLMs.png" alt="Generative AI Engineering with Transformers & LLMs" width="80">
+        <img src="https://images.credly.com/size/80x80/images/e61e6ff9-3502-4d64-b726-64f932ffbf02/Coursera_20Generative_20AI_20Advanced_20Fine_20Tuning_20for_20LLMs.png" alt="Generative AI Advanced Fine-Tuning for LLMs" width="80">
+      </a>
+      <a href="https://www.credly.com/badges/4d8bc2fc-bc02-4dc2-b85f-27b2c5f8d802">
+        <img src="https://images.credly.com/size/80x80/images/bc1ee755-d8b5-4068-91fa-60a6e05f12dc/Coursera_20AI_20Agents_20Using_20RAG_20and_20LangChain.png" alt="https://images.credly.com/size/80x80/images/bc1ee755-d8b5-4068-91fa-60a6e05f12dc/Coursera_20AI_20Agents_20Using_20RAG_20and_20LangChain.png" width="80">
       </a>
     </td>
   </tr>
