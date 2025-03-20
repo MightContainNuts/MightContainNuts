@@ -80,11 +80,6 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       <a href="https://coursera.org/share/24046cdb5104a1964fe0f4d0caabe515">
         <img src="static/cert.png" alt="Generative AI Engineering with LLMs" width="100">
       </a>
-
-
-
-
-
     </td>
   </tr>
 
