@@ -19,7 +19,7 @@ LinkedIn: [Dean Didion](https://www.linkedin.com/in/deandidion/)
     </td>
     <td style="vertical-align: top; text-align: center; padding-bottom: 10px;">  
       <br>
-      <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/static/20250324_CV_Eng.pdf">
+      <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/static/20250324_CV.pdf">
         <img src="static/CV.png" alt="Click to view my CV" width="150">
       </a>
     </td>
