@@ -4,6 +4,7 @@
 # Dean Didion | IT Manager, Generative AI Engineer & Agile Leader
 Location: [Geiseltalsee, Germany](https://maps.app.goo.gl/61NqPRHPHN3MeHNV6)  
 LinkedIn: [Dean Didion](https://www.linkedin.com/in/deandidion/)
+
 Portfolio: [Portfolio](https://www.surestride.net/)
 
 ### 🚀 Profile Summary 🚀
