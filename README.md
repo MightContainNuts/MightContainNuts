@@ -2,10 +2,11 @@
 
 
 # Dean Didion | IT Manager, Generative AI Engineer & Agile Leader
-Location: [Geiseltalsee, Germany](https://maps.app.goo.gl/61NqPRHPHN3MeHNV6)  
-LinkedIn: [Dean Didion](https://www.linkedin.com/in/deandidion/)
+- Location: [Geiseltalsee, Germany](https://maps.app.goo.gl/61NqPRHPHN3MeHNV6)  
+- LinkedIn: [Dean Didion](https://www.linkedin.com/in/deandidion/)
+- Portfolio: [SureStride](https://www.surestride.net/)
 
-### 🚀 Profile Summary
+### 🚀 Profile Summary 🚀
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -27,14 +28,14 @@ LinkedIn: [Dean Didion](https://www.linkedin.com/in/deandidion/)
 </table>
 
 
-## 🌟 Key Skills
+## 🌟 Key Skills 🌟
 - **Generative AI**: GANs, VAEs, Transformers (GPT, BERT)
 - **Machine Learning**: Deep Learning, Reinforcement Learning, Supervised & Unsupervised Learning
 - **Natural Language Processing (NLP)**: Text Generation, Text Summarization, Sentiment Analysis
 - **Creative AI**: Chatbots, Gen AI spoorted apps
 - **AI Tools & Frameworks**: TensorFlow, PyTorch, Keras, Hugging Face, OpenAI GPT, LangChain, LangGraph
 
-## 🚀 Personal Generative AI Projects
+## 🚀 Personal Generative AI Projects 🚀
 - **[Thrive Well](https://github.com/MightContainNuts/thrive_well)** :  ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 An AI-powered Flask application designed to support health, wellness, and recovery. This server integrates generative AI models to offer personalized recommendations, track progress, and optimize well-being routines. Ideal for individuals looking to enhance their physical and mental health through data-driven insights.
