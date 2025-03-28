@@ -20,7 +20,7 @@
     </td>
     <td style="vertical-align: top; text-align: center; padding-bottom: 10px;">  
       <br>
-      <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/static/20250325_CV_Eng.pdf">
+      <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/static/20250328_CV_ENG_DD.pdf">
         <img src="static/CV.png" alt="Click to view my CV" width="150">
       </a>
     </td>
