@@ -20,7 +20,7 @@
     </td>
     <td style="vertical-align: top; text-align: center; padding-bottom: 10px;">  
       <br>
-      <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/static/20250328_CV_ENG_DD.pdf">
+      <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/static/20250409_CV_ENG_DD.pdf">
         <img src="static/CV.png" alt="Click to view my CV" width="150">
       </a>
     </td>
@@ -64,6 +64,7 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
           <li><strong>AI DevOps Professional</strong> <br></li>
           <li><strong>AI Data Science Specialist</strong> <br></li>
           <li><strong>Generative AI Engineering with LLMs</strong> <br></li>
+<li><strong>Generative AI for Educators</strong> <br></li>
       </ul>
     </td>
     <!-- Right Column: IBM Professional Certifications with Links -->
@@ -79,6 +80,9 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       </a>
       <a href="https://coursera.org/share/24046cdb5104a1964fe0f4d0caabe515">
         <img src="static/cert.png" alt="Generative AI Engineering with LLMs" width="100">
+      </a>
+<a href="https://coursera.org/share/2560ba095a47b19f9daab39235163c84">
+        <img src="static/cert.png" alt="Generative AI for Educators" width="100">
       </a>
     </td>
   </tr>
