@@ -191,9 +191,9 @@ You can check out all my posts on my hashnode
 [blog](https://surestride.hashnode.dev/?source=top_nav_blog_home)
 
 <!-- BEGIN HASHNODE ARTICLES -->
-1. [PR Ettiquette : my pet likes, hates](https://surestride.hashnode.dev/pr-ettiquette-my-pet-likes-hates)
-2. [How to Install Poetry on PyCharm and Use It as an Interpreter](https://surestride.hashnode.dev/how-to-install-poetry-on-pycharm-and-use-it-as-an-interpreter)
-3. [Understanding the Python @property Decorator:  (Getters, Setters, and why you should be using them)](https://surestride.hashnode.dev/understanding-the-python-property-decorator-getters-setters-and-why-you-should-be-using-them)
+1. [It's time to rethink those take-home tests...](https://surestride.hashnode.dev/its-time-to-rethink-those-take-home-tests)
+2. [PR Ettiquette : my pet likes, hates](https://surestride.hashnode.dev/pr-ettiquette-my-pet-likes-hates)
+3. [How to Install Poetry on PyCharm and Use It as an Interpreter](https://surestride.hashnode.dev/how-to-install-poetry-on-pycharm-and-use-it-as-an-interpreter)
 <!-- END HASHNODE ARTICLES -->
 
 ## Stats
