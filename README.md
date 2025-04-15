@@ -64,7 +64,8 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
           <li><strong>AI DevOps Professional</strong> <br></li>
           <li><strong>AI Data Science Specialist</strong> <br></li>
           <li><strong>Generative AI Engineering with LLMs</strong> <br></li>
-<li><strong>Generative AI for Educators</strong> <br></li>
+          <li><strong>Generative AI for Educators</strong> <br></li>
+          <li><strong>Python PCEP Programmer</strong> <br></li>
       </ul>
     </td>
     <!-- Right Column: IBM Professional Certifications with Links -->
@@ -81,10 +82,13 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       <a href="https://coursera.org/share/24046cdb5104a1964fe0f4d0caabe515">
         <img src="static/cert.png" alt="Generative AI Engineering with LLMs" width="100">
       </a>
-<a href="https://coursera.org/share/2560ba095a47b19f9daab39235163c84">
+      <a href="https://coursera.org/share/2560ba095a47b19f9daab39235163c84">
         <img src="static/cert.png" alt="Generative AI for Educators" width="100">
       </a>
-    </td>
+      <a href="https://verify.openedg.org/?id=f6Z3.q4fe.bNn6">
+            <img src="static/cert.png" alt="PCEP Python Programmer" width="100">
+        </a>
+</td>
   </tr>
 
   <!-- Bottom Row: Credly Badges -->
@@ -138,7 +142,12 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       <a href="https://www.credly.com/badges/3de70507-dab7-4626-a4d2-2af116b66d26">
         <img src="https://images.credly.com/size/80x80/images/cdb44549-e7b6-47e7-a21f-160cecf8f38f/Coursera_20Generative_20AI_20Applications_20Specialist.png" alt="Generative AI Applications Specialist" width="80">
       </a>
-    </td>
+      <a href="https://www.credly.com/badges/3de70507-dab7-4626-a4d2-2af116b66d26">
+            <img src="https://images.credly.com/size/80x80/images/cdb44549-e7b6-47e7-a21f-160cecf8f38f/Coursera_20Generative_20AI_20Applications_20Specialist.png" alt="Generative AI Applications Specialist" width="80">
+      <a href="https://www.credly.com/earner/earned/badge/e8b057d3-3e2f-430c-8641-8da8e6a2ae7d">
+        <img src="https://images.credly.com/size/80x80/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="PCEP Python Programmer" width="80">
+      </a>    
+</td>
   </tr>
 </table>
 
