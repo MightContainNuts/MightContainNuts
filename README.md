@@ -200,9 +200,9 @@ You can check out all my posts on my hashnode
 [blog](https://surestride.hashnode.dev/?source=top_nav_blog_home)
 
 <!-- BEGIN HASHNODE ARTICLES -->
-1. [It's time to rethink those take-home tests...](https://surestride.hashnode.dev/its-time-to-rethink-those-take-home-tests)
-2. [PR Ettiquette : my pet likes, hates](https://surestride.hashnode.dev/pr-ettiquette-my-pet-likes-hates)
-3. [How to Install Poetry on PyCharm and Use It as an Interpreter](https://surestride.hashnode.dev/how-to-install-poetry-on-pycharm-and-use-it-as-an-interpreter)
+1. [Vibe Coding and the Future of Software Teams](https://surestride.hashnode.dev/vibe-coding-and-the-future-of-software-teams)
+2. [It's time to rethink those take-home tests...](https://surestride.hashnode.dev/its-time-to-rethink-those-take-home-tests)
+3. [PR Ettiquette : my pet likes, hates](https://surestride.hashnode.dev/pr-ettiquette-my-pet-likes-hates)
 <!-- END HASHNODE ARTICLES -->
 
 ## Stats
