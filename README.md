@@ -20,7 +20,7 @@
     </td>
     <td style="vertical-align: top; text-align: center; padding-bottom: 10px;">  
       <br>
-      <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/static/20250409_CV_ENG_DD.pdf">
+      <a href="https://github.com/MightContainNuts/MightContainNuts/blob/main/static/20250428_CV_ENG_DD.pdf">
         <img src="static/CV.png" alt="Click to view my CV" width="150">
       </a>
     </td>
@@ -57,6 +57,7 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
     <td style="vertical-align: top; padding-right: 20px; width: 50%;">
       <ul>            
           <li><strong>B.Sc. (Mech)</strong> <br></li>
+          <li><strong>IBM IT Project Manager</strong><br></li>
           <li><strong>ISO 9001 Auditor</strong> <br></li>
           <li><strong>Six Sigma Black Belt</strong> <br></li>
           <li><strong>Agile Coach</strong> <br></li>
@@ -70,6 +71,9 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
     </td>
     <!-- Right Column: IBM Professional Certifications with Links -->
     <td style="vertical-align: top; text-align: center; width: 50%;">
+      <a href="https://coursera.org/share/37c310336e70f76c7f93eafa0788851a">
+          <img src="static/cert.png" alt="IBM IT Project Manager" width="100">
+      </a>
       <a href="https://coursera.org/share/20b0655ae5f74388ca2134578d180366">
         <img src="static/cert.png" alt="IBM AI Developer Professional" width="100">
       </a>
