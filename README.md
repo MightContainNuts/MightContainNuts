@@ -66,10 +66,12 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
           <li><strong>AI Data Science Specialist</strong> <br></li>
           <li><strong>Generative AI Engineering with LLMs</strong> <br></li>
           <li><strong>Generative AI for Educators</strong> <br></li>
+          <li><strong>X-AI, Duke University</strong> <br></li>
           <li><strong>Python PCEP Programmer</strong> <br></li>
+          
       </ul>
     </td>
-    <!-- Right Column: IBM Professional Certifications with Links -->
+    <!-- Right Column: Professional Certifications with Links -->
     <td style="vertical-align: top; text-align: center; width: 50%;">
       <a href="https://coursera.org/share/37c310336e70f76c7f93eafa0788851a">
           <img src="static/cert.png" alt="IBM IT Project Manager" width="100">
@@ -92,6 +94,9 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       <a href="https://verify.openedg.org/?id=f6Z3.q4fe.bNn6">
             <img src="static/cert.png" alt="PCEP Python Programmer" width="100">
         </a>
+      <a href="https://coursera.org/share/fff3c4b13a8e10fda521a66e0cb94c35">
+            <img src="static/cert.png" alt="X=AI Duke University" width="100">
+</a>
 </td>
   </tr>
 
