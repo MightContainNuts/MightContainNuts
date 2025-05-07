@@ -68,7 +68,6 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
           <li><strong>Generative AI for Educators</strong> <br></li>
           <li><strong>X-AI, Duke University</strong> <br></li>
           <li><strong>Python PCEP Programmer</strong> <br></li>
-          
       </ul>
     </td>
     <!-- Right Column: Professional Certifications with Links -->
@@ -153,9 +152,13 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       </a>
       <a href="https://www.credly.com/badges/3de70507-dab7-4626-a4d2-2af116b66d26">
             <img src="https://images.credly.com/size/80x80/images/cdb44549-e7b6-47e7-a21f-160cecf8f38f/Coursera_20Generative_20AI_20Applications_20Specialist.png" alt="Generative AI Applications Specialist" width="80">
+        </a>
       <a href="https://www.credly.com/earner/earned/badge/e8b057d3-3e2f-430c-8641-8da8e6a2ae7d">
         <img src="https://images.credly.com/size/80x80/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="PCEP Python Programmer" width="80">
-      </a>    
+      </a>
+      <a href="https;//www.credly.com/earner/earned/badge/415f5418-7d89-4280-a7bb-a90b381b067f">
+        <img src="https://images.credly.com/size/80x80/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" alt="Git and Github Essentials" width="80">
+      </a> 
 </td>
   </tr>
 </table>
