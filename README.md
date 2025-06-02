@@ -68,6 +68,7 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
           <li><strong>Generative AI for Educators</strong> <br></li>
           <li><strong>X-AI, Duke University</strong> <br></li>
           <li><strong>Python PCEP Programmer</strong> <br></li>
+          <li><strong>Python PCAP Programmer</strong><br> </li>
       </ul>
     </td>
     <!-- Right Column: Professional Certifications with Links -->
@@ -92,7 +93,10 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
       </a>
       <a href="https://verify.openedg.org/?id=f6Z3.q4fe.bNn6">
             <img src="static/cert.png" alt="PCEP Python Programmer" width="100">
-        </a>
+      </a>
+      <a href="https://verify.openedg.org/?id=4oR8.Ozjw.0bnK">
+            <img src="static/cert.png" alt="PCAP Python Programmer" width="100">
+      </a>
       <a href="https://coursera.org/share/fff3c4b13a8e10fda521a66e0cb94c35">
             <img src="static/cert.png" alt="X=AI Duke University" width="100">
 </a>
@@ -155,6 +159,9 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
         </a>
       <a href="https://www.credly.com/earner/earned/badge/e8b057d3-3e2f-430c-8641-8da8e6a2ae7d">
         <img src="https://images.credly.com/size/80x80/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="PCEP Python Programmer" width="80">
+      </a>
+      <a href="https://www.credly.com/earner/earned/badge/fa9038e4-ae59-4f07-a6fe-6bb3be4fa225">
+        <img src="https://images.credly.com/size/80x80/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" alt="PCAP Python Programmer" width="80">
       </a>
       <a href="https;//www.credly.com/earner/earned/badge/415f5418-7d89-4280-a7bb-a90b381b067f">
         <img src="https://images.credly.com/size/80x80/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" alt="Git and Github Essentials" width="80">
