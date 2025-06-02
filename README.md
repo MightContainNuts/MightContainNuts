@@ -219,9 +219,9 @@ You can check out all my posts on my hashnode
 [blog](https://surestride.hashnode.dev/?source=top_nav_blog_home)
 
 <!-- BEGIN HASHNODE ARTICLES -->
-1. [Vibe Coding and the Future of Software Teams](https://surestride.hashnode.dev/vibe-coding-and-the-future-of-software-teams)
-2. [It's time to rethink those take-home tests...](https://surestride.hashnode.dev/its-time-to-rethink-those-take-home-tests)
-3. [PR Ettiquette : my pet likes, hates](https://surestride.hashnode.dev/pr-ettiquette-my-pet-likes-hates)
+1. [🧠 Prompt Injection in AI Recruiting: A Cheeky Experiment with My Cover Letter Generator](https://surestride.hashnode.dev/prompt-injection-in-ai-recruiting-a-cheeky-experiment-with-my-cover-letter-generator)
+2. [Vibe Coding and the Future of Software Teams](https://surestride.hashnode.dev/vibe-coding-and-the-future-of-software-teams)
+3. [It's time to rethink those take-home tests...](https://surestride.hashnode.dev/its-time-to-rethink-those-take-home-tests)
 <!-- END HASHNODE ARTICLES -->
 
 ## Stats
