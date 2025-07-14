@@ -161,7 +161,7 @@ A non profitable WhatsApp based Chatbot. Originally part of a Hackathon (which w
         <img src="https://images.credly.com/size/80x80/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="PCEP Python Programmer" width="80">
       </a>
       <a href="https://www.credly.com/earner/earned/badge/fa9038e4-ae59-4f07-a6fe-6bb3be4fa225">
-        <img src="https://images.credly.com/size/80x80/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.pnggit pull" alt="PCAP Python Programmer" width="80">
+        <img src="https://images.credly.com/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" alt="PCAP Python Programmer" width="80">
       </a>
       <a href="https;//www.credly.com/earner/earned/badge/415f5418-7d89-4280-a7bb-a90b381b067f">
         <img src="https://images.credly.com/size/80x80/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" alt="Git and Github Essentials" width="80">
